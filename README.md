@@ -1,1 +1,1 @@
-# pwa-giphy
+# Simple PWA app with giphy api
